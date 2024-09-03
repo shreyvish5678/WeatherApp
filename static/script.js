@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     infoButton.addEventListener('click', () => {
-        alert('PM Accelerator: Empowering the next generation of product managers through hands-on experience and mentorship.');
+        alert('PM Accelerator: From entry-level to VP of Product, we support PM professionals through every stage of their career. Name: Shrey Vishen');
     });
 
     function displayWeather(data, city) {
